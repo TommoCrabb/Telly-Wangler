@@ -1,0 +1,194 @@
+^2018 YMF Australian Superbike Champ S *[0-9]+ Ep *[0-9]+
+^24 Hours In Emergency S *[0-9]+ Ep *[0-9]+
+^5 Ingredient Fix S *[0-9]+ Ep *[0-9]+
+^8 Out Of 10 Cats Does Countdown S *[0-9]+ Ep *[0-9]+
+^AFL 2018: Heartland Footy S *[0-9]+ Ep *[0-9]+
+^(African|BBC|French|Filipino|Filipino Weekend|DW German|Dutch|Croatian|Chinese|Bosnian|Bangladesh|Armenian|Arabic|Hindi|Hong Kong|Hungarian|Indonesian|Italian|Japanese|Korean|Latin American|Macedonian|Maltese|Greek|Turkish|Ukrainian|Urdu|Tamil|Thai|Polish|Portuguese|Punjabi|Romanian|Russian|Serbian|Somali|Spanish|Nepali|Sri Lankan Sinhalese) +News( Second Edition| F24| From Cyprus)* [0-9]+ (January|February|March|April|May|June|July|August|September|October|November|December)
+^Africa On A Plate S *[0-9]+ Ep *[0-9]+
+^Ainsley Harriott's Street Food S *[0-9]+ Ep *[0-9]+
+^Alex Polizzi's Secret Italy S *[0-9]+ Ep *[0-9]+
+^Anthony Bourdain: No Reservations S *[0-9]+ Ep *[0-9]+
+^Around The Campfire S *[0-9]+ Ep *[0-9]+
+^Ask The Butcher S *[0-9]+ Ep *[0-9]+
+^Aussie Bush Tales S *[0-9]+ Ep *[0-9]+
+^Bakers Vs. Fakers S *[0-9]+ Ep *[0-9]+
+^Barefoot Contessa: Back To Basics S *[0-9]+ Ep *[0-9]+
+^Baseball 2018: SA Super League S *[0-9]+ Ep *[0-9]+
+^Basketball 2018: SA Premier League S *[0-9]+ Ep *[0-9]+
+^Beach Bites With Katie Lee S *[0-9]+ Ep *[0-9]+
+^Beat Bobby Flay S *[0-9]+ Ep *[0-9]+
+^Behind The Brush S *[0-9]+ Ep *[0-9]+
+^Best Thing I Ever Ate Bitesize S *[0-9]+ Ep *[0-9]+
+^Big Freedia: Queen Of Bounce S *[0-9]+ Ep *[0-9]+
+^Billy On The Street S *[0-9]+ Ep *[0-9]+
+^Bizarre Foods: Delicious Destinations S *[0-9]+ Ep *[0-9]+
+^Bizarre Foods With Andrew Zimmern S *[0-9]+ Ep *[0-9]+
+^Bobby Flay's Barbecue Addiction S *[0-9]+ Ep *[0-9]+
+^Bon Appetit! Gerard Depardieu's Europe S *[0-9]+ Ep *[0-9]+
+^Bondi Harvest S *[0-9]+ Ep *[0-9]+
+^Born To Cook: Jack Stein Down Under S *[0-9]+ Ep *[0-9]+
+^Boys Weekend S *[0-9]+ Ep *[0-9]+
+^Cafe Niugini S *[0-9]+ Ep *[0-9]+
+^Cake Wars S *[0-9]+ Ep *[0-9]+
+^Cake Wars Specials S *[0-9]+ Ep *[0-9]+
+^Carnivore Chronicles S *[0-9]+ Ep *[0-9]+
+^Celebrity Food Fight S *[0-9]+ Ep *[0-9]+
+^Cheese Slices S *[0-9]+ Ep *[0-9]+
+^Chopped After Hours S *[0-9]+ Ep *[0-9]+
+^Chopped S *[0-9]+ Ep *[0-9]+
+^Cooking For Love S *[0-9]+ Ep *[0-9]+
+^Cooks Vs. Cons S *[0-9]+ Ep *[0-9]+
+^Crazy Cookie Builds S *[0-9]+ Ep *[0-9]+
+^Cruising With Jane McDonald S *[0-9]+ Ep *[0-9]+
+^Custodians S *[0-9]+ Ep *[0-9]+
+^Cycling: Voxwomen S *[0-9]+ Ep *[0-9]+
+^Dara O Briain: School Of Hard Sums S *[0-9]+ Ep *[0-9]+
+^Dead Set On Life S *[0-9]+ Ep *[0-9]+
+^Defining Moments S *[0-9]+ Ep *[0-9]+
+^Designing Africa S *[0-9]+ Ep *[0-9]+
+^Desperate Measures S *[0-9]+ Ep *[0-9]+
+^Destination Flavour China S *[0-9]+ Ep *[0-9]+
+^Destination Flavour Down Under S *[0-9]+ Ep *[0-9]+
+^Destination Flavour Scandinavia Bitesize S *[0-9]+ Ep *[0-9]+
+^Destination Flavour Scandinavia S *[0-9]+ Ep *[0-9]+
+^Desus And Mero S *[0-9]+ Ep *[0-9]+
+^Diners, Drive-Ins And Dives S *[0-9]+ Ep *[0-9]+
+^Dinner At Tiffani's S *[0-9]+ Ep *[0-9]+
+^Dinner Date S *[0-9]+ Ep *[0-9]+
+^Donna Hay: Basics To Brilliance Kids S *[0-9]+ Ep *[0-9]+
+^Donna Hay: Basics To Brilliance S *[0-9]+ Ep *[0-9]+
+^Drive Thru Australia S *[0-9]+ Ep *[0-9]+
+^Farmhouse Rules S *[0-9]+ Ep *[0-9]+
+^Fashionista S *[0-9]+ Ep *[0-9]+
+^F-Ck, That's Delicious: Classics S *[0-9]+ Ep *[0-9]+
+^Food Lab By Ben Milbourne S *[0-9]+ Ep *[0-9]+
+^Food Lovers Guide To Australia S *[0-9]+ Ep *[0-9]+
+^Food Lovers' Guide To Australia S *[0-9]+ Ep *[0-9]+
+^Food Paradise International S *[0-9]+ Ep *[0-9]+
+^Food Paradise S *[0-9]+ Ep *[0-9]+
+^Food Porn S *[0-9]+ Ep *[0-9]+
+^Food Safari Fire S *[0-9]+ Ep *[0-9]+
+^Food Safari S *[0-9]+ Ep *[0-9]+
+^Food Safari Water S *[0-9]+ Ep *[0-9]+
+^(France 24 International|DW English|SBS World|NITV|PBS) +News(hour| Late S[0-9]+ Ep[0-9]+)? [0-9]+ (January|February|March|April|May|June|July|August|September|October|November|December)
+^Giada At Home S *[0-9]+ Ep *[0-9]+
+^Giada Entertains S *[0-9]+ Ep *[0-9]+
+^Giada In Italy S *[0-9]+ Ep *[0-9]+
+^Giada On The Beach S *[0-9]+ Ep *[0-9]+
+^Giada's Holiday Handbook S *[0-9]+ Ep *[0-9]+
+^Ginormous Food S *[0-9]+ Ep *[0-9]+
+^Good Listening S *[0-9]+ Ep *[0-9]+
+^Great British Food Revival S *[0-9]+ Ep *[0-9]+
+^Great British Railway Journeys S *[0-9]+ Ep *[0-9]+
+^Great Food Truck Race, The S *[0-9]+ Ep *[0-9]+
+^Grounded S *[0-9]+ Ep *[0-9]+
+^Guy's Big Bite S *[0-9]+ Ep *[0-9]+
+^Guy's Grocery Games S *[0-9]+ Ep *[0-9]+
+^Hairy Bikers' Bakeation S *[0-9]+ Ep *[0-9]+
+^Halloween Baking Championship S *[0-9]+ Ep *[0-9]+
+^Haunted: The Other Side S *[0-9]+ Ep *[0-9]+
+^Help My Yelp S *[0-9]+ Ep *[0-9]+
+^Hidden Restaurants With Michel Roux Jnr S *[0-9]+ Ep *[0-9]+
+^If You Are The One S *[0-9]+ Ep *[0-9]+
+^In The Frame S *[0-9]+ Ep *[0-9]+
+^Inuk S *[0-9]+ Ep *[0-9]+
+^It's Suppertime S *[0-9]+ Ep *[0-9]+
+^Justine's Flavours Of Fuji S *[0-9]+ Ep *[0-9]+
+^Kaeloo S *[0-9]+ Ep *[0-9]+
+^Kids Baking Championship S *[0-9]+ Ep *[0-9]+
+^Kids Bbq Championship S *[0-9]+ Ep *[0-9]+
+^Kitchen Inferno with Curtis Stone S *[0-9]+ Ep *[0-9]+
+^Kriol Kitchen S *[0-9]+ Ep *[0-9]+
+^Kylie Kwong: Heart And Soul S *[0-9]+ Ep *[0-9]+
+^Kylie Kwong: My China S *[0-9]+ Ep *[0-9]+
+^Letters And Numbers S *[0-9]+ Ep *[0-9]+
+^LIVE 2018 Copa Libertadores Semi Final S *[0-9]+ Ep *[0-9]+
+^LIVE NBL: Hawks v Adelaide 36ers S *[0-9]+ Ep *[0-9]+
+^Living Black S *[0-9]+ Ep *[0-9]+
+^Luke Nguyen's Food Trail S *[0-9]+ Ep *[0-9]+
+^Luke Nguyen's United Kingdom S *[0-9]+ Ep *[0-9]+
+^Lyndey Milan's Taste Of Australia S *[0-9]+ Ep *[0-9]+
+^Lyndey Milan's Taste Of Ireland S *[0-9]+ Ep *[0-9]+
+^Made In Italy With Silvia Colloca S *[0-9]+ Ep *[0-9]+
+^Man Fire Food S *[0-9]+ Ep *[0-9]+
+^Man's Greatest Food S *[0-9]+ Ep *[0-9]+
+^Man V. Food Best Of S *[0-9]+ Ep *[0-9]+
+^Man V. Food Nation S *[0-9]+ Ep *[0-9]+
+^Man V. Food S *[0-9]+ Ep *[0-9]+
+^Maori TV's Native Affairs S *[0-9]+ Ep *[0-9]+
+^Maori Tv's Native Affairs Summer 2017 S *[0-9]+ Ep *[0-9]+
+^Martha And Snoop's Potluck Dinner Party
+^Midnight Diner S *[0-9]+ Ep *[0-9]+
+^Miguel's Tropical Kitchen S *[0-9]+ Ep *[0-9]+
+^Must Try Asia S *[0-9]+ Ep *[0-9]+
+^My Family Feast S *[0-9]+ Ep *[0-9]+
+^Mystery Diners S *[0-9]+ Ep *[0-9]+
+^Natural Wines With Clovis S *[0-9]+ Ep *[0-9]+
+^Nigella Bites S *[0-9]+ Ep *[0-9]+
+^Nigella Express S *[0-9]+ Ep *[0-9]+
+^Nigella Feasts S *[0-9]+ Ep *[0-9]+
+^Nitv On The Road: Boomerang Festival S *[0-9]+ Ep *[0-9]+
+^Nitv On The Road: Yabun S *[0-9]+ Ep *[0-9]+
+^Noongar Dandjoo S *[0-9]+ Ep *[0-9]+
+^Nordlandsbanen Train Journey S *[0-9]+ Ep *[0-9]+
+^Off The Record S *[0-9]+ Ep *[0-9]+
+^Oliver's Twist S *[0-9]+ Ep *[0-9]+
+^One With Nature S *[0-9]+ Ep *[0-9]+
+^Ottolenghi's Mediterranean Island Feasts? S *[0-9]+ Ep *[0-9]+
+^Our Footprint S *[0-9]+ Ep *[0-9]+
+^Our Stories S *[0-9]+ Ep *[0-9]+
+^Pati's Mexican Table S *[0-9]+ Ep *[0-9]+
+^Paul Hollywood City Bakes S *[0-9]+ Ep *[0-9]+
+^Poh's Kitchen S *[0-9]+ Ep *[0-9]+
+^Project Matauranga S *[0-9]+ Ep *[0-9]+
+^Rachael Ray's 30 Minute Meals S *[0-9]+ Ep *[0-9]+
+^Real Food Adventures S *[0-9]+ Ep *[0-9]+
+^Real Pasifik S *[0-9]+ Ep *[0-9]+
+^Replay: Paris-Nice
+^Restaurant: Impossible S *[0-9]+ Ep *[0-9]+
+^Rick Stein.*
+^Rick Stein's India S *[0-9]+ Ep *[0-9]+
+^Rick Stein's Spain S *[0-9]+ Ep *[0-9]+
+^Ridiculous Cakes S *[0-9]+ Ep *[0-9]+
+^Royal Gardens On A Plate S *[0-9]+ Ep *[0-9]+
+^Rugby Union 2018: Ella 7's 1 S *[0-9]+ Ep *[0-9]+
+^Say It To My Face S *[0-9]+ Ep *[0-9]+
+^SBS World News Late S *[0-9]+ Ep *[0-9]+
+^Secret Meat Business S *[0-9]+ Ep *[0-9]+
+^Shane Delia's Recipe for Life S *[0-9]+ Ep *[0-9]+
+^Shane's Moorish Spice Journey Bitesize S *[0-9]+ Ep *[0-9]+
+^Sivummut S *[0-9]+ Ep *[0-9]+
+^Small Business Secrets S *[0-9]+ Ep *[0-9]+
+^Speedweek S *[0-9]+ Ep *[0-9]+
+^Spring Baking Championship S *[0-9]+ Ep *[0-9]+
+^Star Plates S *[0-9]+ Ep *[0-9]+
+^Superbike World Championships 2018 S *[0-9]+ Ep *[0-9]+
+^Surviving S *[0-9]+ Ep *[0-9]+
+^Tales Of Tatonka S *[0-9]+ Ep *[0-9]+
+^Te Kaea S *[0-9]+ Ep *[0-9]+
+^Thai Street Food With David Thompson S *[0-9]+ Ep *[0-9]+
+^The Chefs' Line S *[0-9]+ Ep *[0-9]+
+^The Cook And The Chef S *[0-9]+ Ep *[0-9]+
+^The Dreaming S *[0-9]+ Ep *[0-9]+
+^(The Feed|The Point|The World Game) +(- *)?([0-9]* +)?(January|February|March|April|May|June|July|August|September|October|November|December)( +[0-9]*)?
+^The Great Food Truck Race S *[0-9]+ Ep *[0-9]+
+^The Grill Dads S *[0-9]+ Ep *[0-9]+
+^The Kitchen S *[0-9]+ Ep *[0-9]+
+^The Naked Chef S *[0-9]+ Ep *[0-9]+
+^The Therapist S *[0-9]+ Ep *[0-9]+
+^The Wine Show S *[0-9]+ Ep *[0-9]+
+^Tipi Tales S *[0-9]+ Ep *[0-9]+
+^Trisha's Southern Kitchen S *[0-9]+ Ep *[0-9]+
+^Trivia Nights S *[0-9]+ Ep *[0-9]+
+^Tyler's Ultimate S *[0-9]+ Ep *[0-9]+
+^Unique Sweets S *[0-9]+ Ep *[0-9]+
+^Untitled Action Bronson Show S *[0-9]+ Ep *[0-9]+
+^Unwrapped 2.0 S *[0-9]+ Ep *[0-9]+
+^Valerie's Home Cooking S *[0-9]+ Ep *[0-9]+
+^Vegas Cakes S *[0-9]+ Ep *[0-9]+
+^Vice News Tonight Ep *[0-9]+
+^Waabiny Time S *[0-9]+ Ep *[0-9]+
+^Welcome To Wapos Bay S *[0-9]+ Ep *[0-9]+
+^Where Are We Going, Dad? S *[0-9]+ Ep *[0-9]+
+^Yamba's Playtime S *[0-9]+ Ep *[0-9]+
+^Yarramundi Kids S *[0-9]+ Ep *[0-9]+
