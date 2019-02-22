@@ -6,6 +6,7 @@
 ^(African|BBC|French|Filipino|Filipino Weekend|DW German|Dutch|Croatian|Chinese|Bosnian|Bangladesh|Armenian|Arabic|Hindi|Hong Kong|Hungarian|Indonesian|Italian|Japanese|Korean|Latin American|Macedonian|Maltese|Greek|Turkish|Ukrainian|Urdu|Tamil|Thai|Polish|Portuguese|Punjabi|Romanian|Russian|Serbian|Somali|Spanish|Nepali|Sri Lankan Sinhalese) +News( Second Edition| F24| From Cyprus)* [0-9]+ (January|February|March|April|May|June|July|August|September|October|November|December)
 ^Africa On A Plate S *[0-9]+ Ep *[0-9]+
 ^Ainsley Harriott's Street Food S *[0-9]+ Ep *[0-9]+
+^Alex Polizzi Chef For Hire S *[0-9]+ Ep *[0-9]+
 ^Alex Polizzi's Secret Italy S *[0-9]+ Ep *[0-9]+
 ^Anthony Bourdain: No Reservations S *[0-9]+ Ep *[0-9]+
 ^Around The Campfire S *[0-9]+ Ep *[0-9]+
@@ -19,6 +20,7 @@
 ^Beat Bobby Flay S *[0-9]+ Ep *[0-9]+
 ^Behind The Brush S *[0-9]+ Ep *[0-9]+
 ^Best Thing I Ever Ate Bitesize S *[0-9]+ Ep *[0-9]+
+^Big Food Rescue S *[0-9]+ Ep *[0-9]+
 ^Big Freedia: Queen Of Bounce S *[0-9]+ Ep *[0-9]+
 ^Billy On The Street S *[0-9]+ Ep *[0-9]+
 ^Bizarre Foods: Delicious Destinations S *[0-9]+ Ep *[0-9]+
@@ -58,6 +60,7 @@
 ^Donna Hay: Basics To Brilliance Kids S *[0-9]+ Ep *[0-9]+
 ^Donna Hay: Basics To Brilliance S *[0-9]+ Ep *[0-9]+
 ^Drive Thru Australia S *[0-9]+ Ep *[0-9]+
+^Eat Australia In South Australia S *[0-9]+ Ep *[0-9]+
 ^Farmhouse Rules S *[0-9]+ Ep *[0-9]+
 ^Fashionista S *[0-9]+ Ep *[0-9]+
 ^F-Ck, That's Delicious: Classics S *[0-9]+ Ep *[0-9]+
@@ -78,6 +81,7 @@
 ^Giada's Holiday Handbook S *[0-9]+ Ep *[0-9]+
 ^Ginormous Food S *[0-9]+ Ep *[0-9]+
 ^Good Listening S *[0-9]+ Ep *[0-9]+
+^Gourmet Farmer S *[0-9]+ Ep *[0-9]+
 ^Great British Food Revival S *[0-9]+ Ep *[0-9]+
 ^Great British Railway Journeys S *[0-9]+ Ep *[0-9]+
 ^Great Food Truck Race, The S *[0-9]+ Ep *[0-9]+
@@ -101,12 +105,15 @@
 ^Kriol Kitchen S *[0-9]+ Ep *[0-9]+
 ^Kylie Kwong: Heart And Soul S *[0-9]+ Ep *[0-9]+
 ^Kylie Kwong: My China S *[0-9]+ Ep *[0-9]+
+^Lee Chan's World Tour S *[0-9]+ Ep *[0-9]+
+^Legally Brown S *[0-9]+ Ep *[0-9]+
 ^Letters And Numbers S *[0-9]+ Ep *[0-9]+
 ^LIVE 2018 Copa Libertadores Semi Final S *[0-9]+ Ep *[0-9]+
 ^LIVE NBL: Hawks v Adelaide 36ers S *[0-9]+ Ep *[0-9]+
 ^Living Black S *[0-9]+ Ep *[0-9]+
 ^Luke Nguyen's Food Trail S *[0-9]+ Ep *[0-9]+
 ^Luke Nguyen's United Kingdom S *[0-9]+ Ep *[0-9]+
+^Luke Nguyen's Vietnam S *[0-9]+ Ep *[0-9]+
 ^Lyndey Milan's Taste Of Australia S *[0-9]+ Ep *[0-9]+
 ^Lyndey Milan's Taste Of Ireland S *[0-9]+ Ep *[0-9]+
 ^Made In Italy With Silvia Colloca S *[0-9]+ Ep *[0-9]+
@@ -117,6 +124,7 @@
 ^Man V. Food S *[0-9]+ Ep *[0-9]+
 ^Maori TV's Native Affairs S *[0-9]+ Ep *[0-9]+
 ^Maori Tv's Native Affairs Summer 2017 S *[0-9]+ Ep *[0-9]+
+^Maori Tv's Native Affairs - Summer S *[0-9]+ Ep *[0-9]+
 ^Martha And Snoop's Potluck Dinner Party
 ^Midnight Diner S *[0-9]+ Ep *[0-9]+
 ^Miguel's Tropical Kitchen S *[0-9]+ Ep *[0-9]+
@@ -171,6 +179,7 @@
 ^The Cook And The Chef S *[0-9]+ Ep *[0-9]+
 ^The Dreaming S *[0-9]+ Ep *[0-9]+
 ^(The Feed|The Point|The World Game) +(- *)?([0-9]* +)?(January|February|March|April|May|June|July|August|September|October|November|December)( +[0-9]*)?
+^The Gadget Show S *[0-9]+ Ep *[0-9]+
 ^The Great Food Truck Race S *[0-9]+ Ep *[0-9]+
 ^The Grill Dads S *[0-9]+ Ep *[0-9]+
 ^The Kitchen S *[0-9]+ Ep *[0-9]+
@@ -181,14 +190,17 @@
 ^Trisha's Southern Kitchen S *[0-9]+ Ep *[0-9]+
 ^Trivia Nights S *[0-9]+ Ep *[0-9]+
 ^Tyler's Ultimate S *[0-9]+ Ep *[0-9]+
+^Ultimate Airport Dubai S *[0-9]+ Ep *[0-9]+
 ^Unique Sweets S *[0-9]+ Ep *[0-9]+
 ^Untitled Action Bronson Show S *[0-9]+ Ep *[0-9]+
 ^Unwrapped 2.0 S *[0-9]+ Ep *[0-9]+
 ^Valerie's Home Cooking S *[0-9]+ Ep *[0-9]+
 ^Vegas Cakes S *[0-9]+ Ep *[0-9]+
 ^Vice News Tonight Ep *[0-9]+
+^Vice News Tonight S *[0-9]+ Ep *[0-9]+
 ^Waabiny Time S *[0-9]+ Ep *[0-9]+
 ^Welcome To Wapos Bay S *[0-9]+ Ep *[0-9]+
 ^Where Are We Going, Dad? S *[0-9]+ Ep *[0-9]+
 ^Yamba's Playtime S *[0-9]+ Ep *[0-9]+
 ^Yarramundi Kids S *[0-9]+ Ep *[0-9]+
+^Yotam Ottolenghi's Mediterranean Feasts S *[0-9]+ Ep *[0-9]+

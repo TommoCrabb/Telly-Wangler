@@ -1,4 +1,3 @@
-http://iview.abc.net.au/programs/.*/[A-Z0-9]{10}C00D[A-Z0-9]{2}
 http://iview.abc.net.au/programs/100-things-to-do-before-high-school/ZW1348A[0-9]{3}S00
 http://iview.abc.net.au/programs/100-years-of-anzac-the-spirit-lives-2014-2018/IN1501H[0-9]{3}S00
 http://iview.abc.net.au/programs/12-jokes/CH1629V[0-9]{3}S00
@@ -92,6 +91,7 @@ http://iview.abc.net.au/programs/adam-hills-the-last-leg/ZW1371A[0-9]{3}S00
 http://iview.abc.net.au/programs/adam-hills-the-last-leg/ZW1483A[0-9]{3}S00
 http://iview.abc.net.au/programs/adam-hills-the-last-leg/ZW1663A[0-9]{3}S00
 http://iview.abc.net.au/programs/adam-hills-the-last-leg/ZW1769A[0-9]{3}S00
+http://iview.abc.net.au/programs/adam-hills-the-last-leg/ZW1835A[0-9]{3}S00
 http://iview.abc.net.au/programs/adventures-of-bottle-top-bill-and-his-best-friend-corky/CH0305H[0-9]{3}S00
 http://iview.abc.net.au/programs/adventures-of-bottle-top-bill-and-his-best-friend-corky/CH0513H[0-9]{3}S00
 http://iview.abc.net.au/programs/adventures-of-bottle-top-bill-and-his-best-friend-corky/CH0713H[0-9]{3}S00
@@ -99,6 +99,8 @@ http://iview.abc.net.au/programs/adventures-of-bottle-top-bill-and-his-best-frie
 http://iview.abc.net.au/programs/adventures-of-figaro-pho/CH1054H[0-9]{3}S00
 http://iview.abc.net.au/programs/adventures-of-puss-in-boots/ZW1153A[0-9]{3}S00
 http://iview.abc.net.au/programs/adventures-of-puss-in-boots/ZW1154A[0-9]{3}S00
+http://iview.abc.net.au/programs/adventures-of-puss-in-boots/ZW1155A[0-9]{3}S00
+http://iview.abc.net.au/programs/afternoon-briefing/NU1920H[0-9]{3}S00
 http://iview.abc.net.au/programs/agony/LE1447V[0-9]{3}S00
 http://iview.abc.net.au/programs/alan-carr-yap-yap-yap-live/ZW1129A[0-9]{3}S00
 http://iview.abc.net.au/programs/alan-davies-as-yet-untitled/ZW1404A[0-9]{3}S00
@@ -115,8 +117,10 @@ http://iview.abc.net.au/programs/almost-naked-animals/ZX0652A[0-9]{3}S00
 http://iview.abc.net.au/programs/almost-naked-animals/ZX0653A[0-9]{3}S00
 http://iview.abc.net.au/programs/almost-naked-animals/ZX6362A[0-9]{3}S00
 http://iview.abc.net.au/programs/amateur-hour-spotlight-shorts/ZW0776A[0-9]{3}S00
+http://iview.abc.net.au/programs/andy-s-baby-animals/ZW1218A[0-9]{3}S00
 http://iview.abc.net.au/programs/andys-baby-animals/ZW1218A[0-9]{3}S00
 http://iview.abc.net.au/programs/andys-prehistoric-adventures/ZW1211A[0-9]{3}S00
+http://iview.abc.net.au/programs/andy-s-wild-adventures/ZW1668A[0-9]{3}S00
 http://iview.abc.net.au/programs/andys-wild-adventures/ZW1668A[0-9]{3}S00
 http://iview.abc.net.au/programs/annedroids/ZW0700A[0-9]{3}S00
 http://iview.abc.net.au/programs/annedroids/ZW0701A[0-9]{3}S00
@@ -162,6 +166,8 @@ http://iview.abc.net.au/programs/australian-story/NC1701Q[0-9]{3}S00
 http://iview.abc.net.au/programs/australian-story/NC1802Q[0-9]{3}S00
 http://iview.abc.net.au/programs/australian-story-simplified-chinese-subtitles/IV1806Q[0-9]{3}S00
 http://iview.abc.net.au/programs/author-talk-leigh-hobbs/ZW1071A[0-9]{3}S00
+http://iview.abc.net.au/programs/.*/[A-Z0-9]{10}C00D[A-Z0-9]{2}
+http://iview.abc.net.au/programs/.*/[A-Z0-9]{10}C00G[A-Z0-9]{2}
 http://iview.abc.net.au/programs/babar-and-the-adventures-of-badou/ZW0465A[0-9]{3}S00
 http://iview.abc.net.au/programs/baby-jake/ZX9919A[0-9]{3}S00
 http://iview.abc.net.au/programs/baby-jake/ZX9920A[0-9]{3}S00
@@ -174,8 +180,10 @@ http://iview.abc.net.au/programs/backyard-science/ZY6895A[0-9]{3}S00
 http://iview.abc.net.au/programs/bagel-and-becky-show/ZW1216A[0-9]{3}S00
 http://iview.abc.net.au/programs/bananas-in-pyjamas/CH0901H[0-9]{3}S00
 http://iview.abc.net.au/programs/bananas-in-pyjamas/CH1142H[0-9]{3}S00
+http://iview.abc.net.au/programs/barney-s-barrier-reef/ZX0461A[0-9]{3}S00
 http://iview.abc.net.au/programs/barneys-barrier-reef/ZX0461A[0-9]{3}S00
 http://iview.abc.net.au/programs/basketball-nbl/ZW1377A[0-9]{3}S00
+http://iview.abc.net.au/programs/becca-s-bunch/ZW0310A[0-9]{3}S00
 http://iview.abc.net.au/programs/beccas-bunch/ZW0310A[0-9]{3}S00
 http://iview.abc.net.au/programs/behind-the-news-civics-series/NE1602S[0-9]{3}S00
 http://iview.abc.net.au/programs/behind-the-news-specials/NE1613S[0-9]{3}S00
@@ -224,6 +232,7 @@ http://iview.abc.net.au/programs/btn-in-depth/NE1865S[0-9]{3}S00
 http://iview.abc.net.au/programs/btn-media-literacy/NE1874S[0-9]{3}S00
 http://iview.abc.net.au/programs/btn/NE1864S[0-9]{3}S00
 http://iview.abc.net.au/programs/btn-newsbreak/NE1862S[0-9]{3}S00
+http://iview.abc.net.au/programs/btn-newsbreak/NE1902S[0-9]{3}S00
 http://iview.abc.net.au/programs/btn-specials/NE1764S[0-9]{3}S00
 http://iview.abc.net.au/programs/btn-top-stories/NE1866S[0-9]{3}S00
 http://iview.abc.net.au/programs/btn-top-stories/NE1867S[0-9]{3}S00
@@ -234,6 +243,7 @@ http://iview.abc.net.au/programs/bushwhacked-bugs/CH1520H[0-9]{3}S00
 http://iview.abc.net.au/programs/bushwhacked/CH1303H[0-9]{3}S00
 http://iview.abc.net.au/programs/bushwhacked/CH1403H[0-9]{3}S00
 http://iview.abc.net.au/programs/business/NC1806H[0-9]{3}S00
+http://iview.abc.net.au/programs/business/NC1906H[0-9]{3}S00
 http://iview.abc.net.au/programs/camp-lakebottom/ZW0490A[0-9]{3}S00
 http://iview.abc.net.au/programs/camp-lakebottom/ZW1172A[0-9]{3}S00
 http://iview.abc.net.au/programs/camp-lakebottom/ZX9335A[0-9]{3}S00
@@ -252,6 +262,7 @@ http://iview.abc.net.au/programs/christmas-with-poh/FA1300S[0-9]{3}S00
 http://iview.abc.net.au/programs/clangers/ZW0280A[0-9]{3}S00
 http://iview.abc.net.au/programs/clangers/ZW0881A[0-9]{3}S00
 http://iview.abc.net.au/programs/close-of-business/NC1821H[0-9]{3}S00
+http://iview.abc.net.au/programs/close-of-business/NC1921H[0-9]{3}S00
 http://iview.abc.net.au/programs/cloudy-with-a-chance-of-meatballs/ZW0655A[0-9]{3}S00
 http://iview.abc.net.au/programs/coastal-processes-and-land-forms/ZW1137A[0-9]{3}S00
 http://iview.abc.net.au/programs/coding-the-future-is-creative/ZW0744A[0-9]{3}S00
@@ -276,6 +287,8 @@ http://iview.abc.net.au/programs/creative-couples-extras/AR1621V[0-9]{3}S00
 http://iview.abc.net.au/programs/curators/AC1614V[0-9]{3}S00
 http://iview.abc.net.au/programs/curious-cat/ZW0745A[0-9]{3}S00
 http://iview.abc.net.au/programs/curious-george/ZW0177A[0-9]{3}S00
+http://iview.abc.net.au/programs/curious-george/ZW1792A[0-9]{3}S00
+http://iview.abc.net.au/programs/curious-george/ZW1793A[0-9]{3}S00
 http://iview.abc.net.au/programs/curious-george/ZW1844A[0-9]{3}S00
 http://iview.abc.net.au/programs/current-affairs-btns-first-episode/NE1871H[0-9]{3}S00
 http://iview.abc.net.au/programs/cyber-dreaming/AC1342H[0-9]{3}S00
@@ -285,6 +298,7 @@ http://iview.abc.net.au/programs/dance-academy/CH1102H[0-9]{3}S00
 http://iview.abc.net.au/programs/dance-with-the-elements/ZW0325A[0-9]{3}S00
 http://iview.abc.net.au/programs/danger-mouse/ZW0266A[0-9]{3}S00
 http://iview.abc.net.au/programs/danger-mouse/ZW1141A[0-9]{3}S00
+http://iview.abc.net.au/programs/daniel-tiger-s-neighbourhood/ZX8997A[0-9]{3}S00
 http://iview.abc.net.au/programs/daniel-tigers-neighbourhood/ZX8997A[0-9]{3}S00
 http://iview.abc.net.au/programs/danis-house/ZX0839A[0-9]{3}S00
 http://iview.abc.net.au/programs/danis-house/ZX0840A[0-9]{3}S00
@@ -320,11 +334,13 @@ http://iview.abc.net.au/programs/doodles/CH1627Q[0-9]{3}S00
 http://iview.abc.net.au/programs/doodles/ZW0288A[0-9]{3}S00
 http://iview.abc.net.au/programs/dorothy-the-dinosaur/ZX6201A[0-9]{3}S00
 http://iview.abc.net.au/programs/dot/ZW0656A[0-9]{3}S00
+http://iview.abc.net.au/programs/dot/ZW1637A[0-9]{3}S00
 http://iview.abc.net.au/programs/dr-dimensionpants/ZX9857A[0-9]{3}S00
 http://iview.abc.net.au/programs/dream-gardens-extras/FR1506V[0-9]{3}S00
 http://iview.abc.net.au/programs/dream-gardens/FA1506V[0-9]{3}S00
 http://iview.abc.net.au/programs/driftwood-dustmites/IV1739H[0-9]{3}S00
 http://iview.abc.net.au/programs/drum/NC1807H[0-9]{3}S00
+http://iview.abc.net.au/programs/drum/NC1907H[0-9]{3}S00
 http://iview.abc.net.au/programs/drum-weekly/NC1815H[0-9]{3}S00
 http://iview.abc.net.au/programs/drum-weekly/NC1915H[0-9]{3}S00
 http://iview.abc.net.au/programs/dust-echoes/WI0602V[0-9]{3}S00
@@ -370,6 +386,7 @@ http://iview.abc.net.au/programs/gardening-australia/FA1705V[0-9]{3}S00
 http://iview.abc.net.au/programs/gardening-australia/MP1834H079C00DS1[0-9]{3}S00
 http://iview.abc.net.au/programs/gardening-australia/MP1838H065C00DS1[0-9]{3}S00
 http://iview.abc.net.au/programs/gardening-australia-new-years-family-special/FA1605V[0-9]{3}S00
+http://iview.abc.net.au/programs/gardening-australia/RF1805V[0-9]{3}S00
 http://iview.abc.net.au/programs/gardening-australia-stories/IV1719V[0-9]{3}S00
 http://iview.abc.net.au/programs/get-ace/ZX9064A[0-9]{3}S00
 http://iview.abc.net.au/programs/get-blake/ZW1290A[0-9]{3}S00
@@ -392,6 +409,7 @@ http://iview.abc.net.au/programs/giggle-and-hoot/CK1831H[0-9]{3}S00
 http://iview.abc.net.au/programs/giggle-and-hoot/CK1832H[0-9]{3}S00
 http://iview.abc.net.au/programs/giggle-and-hoot/CK1833H[0-9]{3}S00
 http://iview.abc.net.au/programs/giggle-and-hoot/CK1835H[0-9]{3}S00
+http://iview.abc.net.au/programs/giggle-and-hoot/CK1836H[0-9]{3}S00
 http://iview.abc.net.au/programs/giggle-and-hoot/CK1837H[0-9]{3}S00
 http://iview.abc.net.au/programs/giggle-and-hoot/CK1838H[0-9]{3}S00
 http://iview.abc.net.au/programs/giggle-and-hoot/CK1839H[0-9]{3}S00
@@ -419,6 +437,7 @@ http://iview.abc.net.au/programs/grand-designs-new-zealand/ZW0840A[0-9]{3}S00
 http://iview.abc.net.au/programs/grand-designs-new-zealand/ZW1236A[0-9]{3}S00
 http://iview.abc.net.au/programs/grand-designs-new-zealand/ZW1629A[0-9]{3}S00
 http://iview.abc.net.au/programs/grand-designs-revisited/ZW0364A[0-9]{3}S00
+http://iview.abc.net.au/programs/grand-designs-revisited/ZX6248A[0-9]{3}S00
 http://iview.abc.net.au/programs/grand-designs/ZW0363A[0-9]{3}S00
 http://iview.abc.net.au/programs/grand-designs/ZW0616A[0-9]{3}S00
 http://iview.abc.net.au/programs/grand-designs/ZW1037A[0-9]{3}S00
@@ -446,6 +465,7 @@ http://iview.abc.net.au/programs/hank-zipzer/ZX9943A[0-9]{3}S00
 http://iview.abc.net.au/programs/hard-quiz/LE1531V[0-9]{3}S00
 http://iview.abc.net.au/programs/hard-quiz/LE1631V[0-9]{3}S00
 http://iview.abc.net.au/programs/hard-quiz/LE1731V[0-9]{3}S00
+http://iview.abc.net.au/programs/hard-quiz/LE1831V[0-9]{3}S00
 http://iview.abc.net.au/programs/hard-quiz/MP1837H073C00DS1[0-9]{3}S00
 http://iview.abc.net.au/programs/heartland/ZW0525A[0-9]{3}S00
 http://iview.abc.net.au/programs/heartland/ZW0526A[0-9]{3}S00
@@ -487,6 +507,7 @@ http://iview.abc.net.au/programs/how-to-iview/MP1733H188C00GN7
 http://iview.abc.net.au/programs/humptys-big-adventure/CH1440H[0-9]{3}S00
 http://iview.abc.net.au/programs/igam-ogam/ZX9848A[0-9]{3}S00
 http://iview.abc.net.au/programs/im-a-creepy-crawly/ZX9722A[0-9]{3}S00
+http://iview.abc.net.au/programs/i-m-a-fish/ZW1255A[0-9]{3}S00
 http://iview.abc.net.au/programs/im-a-fish/ZW1255A[0-9]{3}S00
 http://iview.abc.net.au/programs/in-the-night-garden/ZY9862A[0-9]{3}S00
 http://iview.abc.net.au/programs/in-the-night-garden/ZY9863A[0-9]{3}S00
@@ -494,6 +515,7 @@ http://iview.abc.net.au/programs/introducing-abc-comedy/IV1752H[0-9]{3}S00
 http://iview.abc.net.au/programs/in-tune/CK1715V[0-9]{3}S00
 http://iview.abc.net.au/programs/iview-guest-playlist/IV1460H[0-9]{3}S00
 http://iview.abc.net.au/programs/jamies-got-tentacles/ZW0949A[0-9]{3}S00
+http://iview.abc.net.au/programs/jamie-s-got-tentacles/ZX9400A[0-9]{3}S00
 http://iview.abc.net.au/programs/jamies-got-tentacles/ZX9400A[0-9]{3}S00
 http://iview.abc.net.au/programs/jamillah-and-aladdin/ZW0181A[0-9]{3}S00
 http://iview.abc.net.au/programs/japanizi-going-going-gong/ZW1166A[0-9]{3}S00
@@ -527,6 +549,7 @@ http://iview.abc.net.au/programs/lachy/ZW0688A[0-9]{3}S00
 http://iview.abc.net.au/programs/lady-vocab/ZW0211A[0-9]{3}S00
 http://iview.abc.net.au/programs/lah-lahs-adventures-songs/ZW0087A[0-9]{3}S00
 http://iview.abc.net.au/programs/lah-lahs-adventures/ZW0086A[0-9]{3}S00
+http://iview.abc.net.au/programs/lah-lah-s-adventures/ZW1645A[0-9]{3}S00
 http://iview.abc.net.au/programs/lah-lahs-big-live-band/ZX9941A[0-9]{3}S00
 http://iview.abc.net.au/programs/launchpad/CK1761H[0-9]{3}S00
 http://iview.abc.net.au/programs/learning-time-with-timmy/ZW1518A[0-9]{3}S00
@@ -556,6 +579,7 @@ http://iview.abc.net.au/programs/live-at-the-apollo/ZX9830A[0-9]{3}S00
 http://iview.abc.net.au/programs/live-from-the-bbc/ZW0780A[0-9]{3}S00
 http://iview.abc.net.au/programs/lockie-leonard/ZW1070A[0-9]{3}S00
 http://iview.abc.net.au/programs/look-kool/ZW1755A[0-9]{3}S00
+http://iview.abc.net.au/programs/look-kool/ZW1756A[0-9]{3}S00
 http://iview.abc.net.au/programs/luo-bao-bei-mandarin/ZW1511A[0-9]{3}S00
 http://iview.abc.net.au/programs/luo-bao-bei/ZW1510A[0-9]{3}S00
 http://iview.abc.net.au/programs/make-it-pop-christmas-holiday-special/ZW0982A[0-9]{3}S00
@@ -600,6 +624,7 @@ http://iview.abc.net.au/programs/mister-maker/ZX0925A[0-9]{3}S00
 http://iview.abc.net.au/programs/mister-maker/ZX0926A[0-9]{3}S00
 http://iview.abc.net.au/programs/mixed-up-maths/CK1511H[0-9]{3}S00
 http://iview.abc.net.au/programs/mix/NC1816H[0-9]{3}S00
+http://iview.abc.net.au/programs/mix/NC1916H[0-9]{3}S00
 http://iview.abc.net.au/programs/moaning-of-life/ZW1731A[0-9]{3}S00
 http://iview.abc.net.au/programs/moaning-of-life/ZX9798A001C00DS2[0-9]{3}S00
 http://iview.abc.net.au/programs/moaning-of-life/ZX9798A[0-9]{3}S00
@@ -670,6 +695,7 @@ http://iview.abc.net.au/programs/offsiders-summer-edition/NC1820V[0-9]{3}S00
 http://iview.abc.net.au/programs/offsiders-summer-edition/NC1920V[0-9]{3}S00
 http://iview.abc.net.au/programs/olobob-top/ZW0306A[0-9]{3}S00
 http://iview.abc.net.au/programs/one-plus-one/NC1813H[0-9]{3}S00
+http://iview.abc.net.au/programs/one-plus-one/NC1913H[0-9]{3}S00
 http://iview.abc.net.au/programs/one-plus-one/NU1741H[0-9]{3}S00
 http://iview.abc.net.au/programs/operation-ouch-goes-back-in-time/ZW0348A[0-9]{3}S00
 http://iview.abc.net.au/programs/operation-ouch-hospital-takeover/ZW0923A[0-9]{3}S00
@@ -691,6 +717,7 @@ http://iview.abc.net.au/programs/peppa-pig-mandarin/ZW1060A[0-9]{3}S00
 http://iview.abc.net.au/programs/peppa-pig-mandarin/ZW1061A[0-9]{3}S00
 http://iview.abc.net.au/programs/peppa-pig-the-golden-boots/ZW0373A[0-9]{3}S00
 http://iview.abc.net.au/programs/peppa-pig/ZW0924A[0-9]{3}S00
+http://iview.abc.net.au/programs/peppa-pig/ZW1636A[0-9]{3}S00
 http://iview.abc.net.au/programs/peppa-pig/ZX1494A[0-9]{3}S00
 http://iview.abc.net.au/programs/peppa-pig/ZX1495A[0-9]{3}S00
 http://iview.abc.net.au/programs/peppa-pig/ZX8908A[0-9]{3}S00
@@ -711,6 +738,7 @@ http://iview.abc.net.au/programs/pet-superstars/CK1851V[0-9]{3}S00
 http://iview.abc.net.au/programs/pingu-in-the-city/ZW1585A[0-9]{3}S00
 http://iview.abc.net.au/programs/pips-tips/CK1806V[0-9]{3}S00
 http://iview.abc.net.au/programs/pips-tips/CK1807V[0-9]{3}S00
+http://iview.abc.net.au/programs/pj-masks-shorts/ZW1616A[0-9]{3}S00
 http://iview.abc.net.au/programs/pj-masks-songs/ZW1617A[0-9]{3}S00
 http://iview.abc.net.au/programs/pj-masks/ZW1191A[0-9]{3}S00
 http://iview.abc.net.au/programs/play-by-play/ZW0361A[0-9]{3}S00
@@ -880,6 +908,7 @@ http://iview.abc.net.au/programs/thomas-and-friends-the-great-race/ZW0668A[0-9]{
 http://iview.abc.net.au/programs/thomas-and-friends/ZW0421A[0-9]{3}S00
 http://iview.abc.net.au/programs/thomas-and-friends/ZW0667A[0-9]{3}S00
 http://iview.abc.net.au/programs/thomas-and-friends/ZW1373A[0-9]{3}S00
+http://iview.abc.net.au/programs/thomas-and-friends/ZW1374A[0-9]{3}S00
 http://iview.abc.net.au/programs/thomas-and-friends/ZX6184A[0-9]{3}S00
 http://iview.abc.net.au/programs/thomas-and-friends/ZX9970A[0-9]{3}S00
 http://iview.abc.net.au/programs/thunderbirds-are-go/ZW0511A[0-9]{3}S00
@@ -910,11 +939,14 @@ http://iview.abc.net.au/programs/weekly-with-charlie-pickering-go-away/LR1716V[0
 http://iview.abc.net.au/programs/weekly-with-charlie-pickering/LE1711V[0-9]{3}S00
 http://iview.abc.net.au/programs/weekly-with-charlie-pickering-shorts/LR1715V[0-9]{3}S00
 http://iview.abc.net.au/programs/weird-science/ZX0293A[0-9]{3}S00
+http://iview.abc.net.au/programs/what-i-wrote/ZX1169A[0-9]{3}S00
 http://iview.abc.net.au/programs/whats-for-dinner/CK1887V[0-9]{3}S00
+http://iview.abc.net.au/programs/wiggles-nursery-rhymes/ZW1832A[0-9]{3}S00
 http://iview.abc.net.au/programs/wiggle-town/ZW0689A[0-9]{3}S00
 http://iview.abc.net.au/programs/wiggle-wiggle-wiggle/ZW1478A[0-9]{3}S00
 http://iview.abc.net.au/programs/wil-anderson-wiluminati/ZW0467A[0-9]{3}S00
 http://iview.abc.net.au/programs/wild-adventures-of-blinky-bill/ZW1300A[0-9]{3}S00
+http://iview.abc.net.au/programs/wild-kitchen-with-clayton-donovan/IP1300H[0-9]{3}S00
 http://iview.abc.net.au/programs/winston-steinburger-and-sir-dudley-ding-dong/CH1326H[0-9]{3}S00
 http://iview.abc.net.au/programs/wishfart/ZW1560A[0-9]{3}S00
 http://iview.abc.net.au/programs/world-according-to-oscar/CK1702V[0-9]{3}S00
