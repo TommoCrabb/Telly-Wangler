@@ -30,7 +30,7 @@ done
 # hash jq || { echo "ERROR: 'jq' needs to be installed. Exiting." ; exit ; }
 # Define names of files that will be created 
 cmd=$( basename "${0}" )
-timestamp=$( 0-timestamp ) || timestamp=$( date +%F_%T )
+timestamp=$( 0-timestamp ) || timestamp=$( date +%Y-%m%d-%H%M%S )
 dump_baseName="${cmd}_${timestamp}_0-dump"
 formatted_file="${cmd}_${timestamp}_1-formatted"
 filtered_file="${cmd}_${timestamp}_2-filtered"

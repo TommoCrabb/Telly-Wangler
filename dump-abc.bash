@@ -16,7 +16,7 @@ done
 # hash jq || { echo "ERROR: Couldn't find 'jq'. Exiting." ; exit ; }
 # Define names of files that will be created
 cmd=$( basename "${0}" )
-timestamp=$( 0-timestamp ) || timestamp=$( date +%F_%T )
+timestamp=$( 0-timestamp ) || timestamp=$( date +%Y-%m%d-%H%M%S )
 dump_file="${cmd}_${timestamp}_0-dumped"
 formatted_file="${cmd}_${timestamp}_1-formatted"
 filtered_file="${cmd}_${timestamp}_2-filtered"

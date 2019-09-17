@@ -17,8 +17,8 @@ mv -vn "${episodeFilter_file}" "${episodeFilterBackup_file}" || { echo "ERROR: C
 # Process ${additions_file}
 sort --unique "${additions_file_array[@]}" "${episodeFilterBackup_file}" | grep -vEf "${titleFilter_file}" > "${episodeFilter_file}"
 # Print new lines added to filter file
-echo "Lines added to ${titleFilter_file}:"
+echo "Lines added to ${episodeFilter_file}:"
 grep -vFf "${episodeFilterBackup_file}" "${episodeFilter_file}"
 echo "====="
-echo "Lines removed from ${titleFilter_file}:"
+echo "Lines removed from ${episodeFilter_file}:"
 grep -vFf "${episodeFilter_file}" "${episodeFilterBackup_file}"
