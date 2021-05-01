@@ -1,6 +1,8 @@
 ^2018 YMF Australian Superbike Champ S *[0-9]+ Ep *[0-9]+
 ^2019 Australian Superbike Championship S *[0-9]+ Ep *[0-9]+
 ^2019 Winter Games New Zealand S *[0-9]+ Ep *[0-9]+
+^2020-21 SBS Courtside - Episode *[0-9]+
+^2020 Australian Superbike Championship S *[0-9]+ Ep *[0-9]+
 ^24 Hours In Emergency S *[0-9]+ Ep *[0-9]+
 ^5 Ingredient Fix S *[0-9]+ Ep *[0-9]+
 ^8 Out Of 10 Cats Does Countdown S *[0-9]+ Ep *[0-9]+
@@ -12,6 +14,7 @@
 ^Afl 2019: NT Thunder S *[0-9]+ Ep *[0-9]+
 ^Afl 2019: Rumbalara S *[0-9]+ Ep *[0-9]+
 ^(African|BBC|French|Filipino|Filipino Weekend|DW German|Dutch|Croatian|Chinese|Bosnian|Bangladesh|Armenian|Arabic|Hindi|Hong Kong|Hungarian|Indonesian|Italian|Japanese|Korean|Latin American|Macedonian|Maltese|Greek|Turkish|Ukrainian|Urdu|Tamil|Thai|Polish|Portuguese|Punjabi|Romanian|Russian|Serbian|Somali|Spanish|Nepali|Sri Lankan Sinhalese) +News( Second Edition| F24| From Cyprus)* [0-9]+ (January|February|March|April|May|June|July|August|September|October|November|December)
+^African News Ep *[0-9]+
 ^Africa On A Plate S *[0-9]+ Ep *[0-9]+
 ^A Gondola On The Murray S *[0-9]+ Ep *[0-9]+
 ^Ainsley Harriott's Street Food S *[0-9]+ Ep *[0-9]+
@@ -19,25 +22,33 @@
 ^Ainsley's Caribbean Kitchen S *[0-9]+ Ep *[0-9]+
 ^Alex Polizzi Chef For Hire S *[0-9]+ Ep *[0-9]+
 ^Alex Polizzi's Secret Italy S *[0-9]+ Ep *[0-9]+
+^Alex Polizzi The Fixer S *[0-9]+ Ep *[0-9]+
 ^Amazing Wedding Cakes S *[0-9]+ Ep *[0-9]+
 ^Annabel Langbein: Free Range Cook S *[0-9]+ Ep *[0-9]+
 ^Anthony Bourdain: No Reservations S *[0-9]+ Ep *[0-9]+
 ^Anthony Bourdain: Parts Unknown S *[0-9]+ Ep *[0-9]+
+^Anthony Bourdain: The Layover S *[0-9]+ Ep *[0-9]+
+^APTN National News S *[0-9]+ Ep *[0-9]+
 ^Around The Campfire S *[0-9]+ Ep *[0-9]+
 ^Artefact S *[0-9]+ Ep *[0-9]+
 ^A Shared Table S *[0-9]+ Ep *[0-9]+
+^Asia Unplated With Diana Chan S *[0-9]+ Ep *[0-9]+
 ^Ask The Butcher S *[0-9]+ Ep *[0-9]+
 ^Aussie Bush Tales S *[0-9]+ Ep *[0-9]+
 ^Aussie Rules 2019: NT Thunder S *[0-9]+ Ep *[0-9]+
+^Australian Baseball League S *[0-9]+ Ep *[0-9]+
 ^Avec Eric S *[0-9]+ Ep *[0-9]+
 ^Bakers Vs. Fakers S *[0-9]+ Ep *[0-9]+
+^Bake With Anna Olson S *[0-9]+ Ep *[0-9]+
 ^Barefoot Contessa: Back To Basics S *[0-9]+ Ep *[0-9]+
 ^Baseball 2018: SA Super League S *[0-9]+ Ep *[0-9]+
 ^Baseball 2019: Cavalry S *[0-9]+ Ep *[0-9]+
 ^Basketball 2018: SA Premier League S *[0-9]+ Ep *[0-9]+
 ^Basketball 2019: SA Men's Premier League S *[0-9]+ Ep *[0-9]+
+^Basketball 2020: Wnbl Highlights S *[0-9]+ Ep *[0-9]+
 ^Basketball: NBL Melb V South East Melb S *[0-9]+ Ep *[0-9]+
 ^Basketball: SBS Courtside S *[0-9]+ Ep *[0-9]+
+^BBC My World S *[0-9]+ Ep *[0-9]+
 ^Bbq Champ S *[0-9]+ Ep *[0-9]+
 ^Bbq Crawl S *[0-9]+ Ep *[0-9]+
 ^BBQ Crawl S *[0-9]+ Ep *[0-9]+
@@ -55,35 +66,56 @@
 ^Bizarre Foods: Delicious Destinations S *[0-9]+ Ep *[0-9]+
 ^Bizarre Foods With Andrew Zimmern S *[0-9]+ Ep *[0-9]+
 ^Bobby Flay's Barbecue Addiction S *[0-9]+ Ep *[0-9]+
+^Bonacini's Italy S *[0-9]+ Ep *[0-9]+
 ^Bon Appetit! Gerard Depardieu's Europe S *[0-9]+ Ep *[0-9]+
 ^Bondi Harvest S *[0-9]+ Ep *[0-9]+
 ^Born To Cook: Jack Stein Down Under S *[0-9]+ Ep *[0-9]+
+^Bowls 2020: SA Super League S *[0-9]+ Ep *[0-9]+
+^Bowls SA Super League S *[0-9]+ Ep *[0-9]+
 ^Boys Weekend S *[0-9]+ Ep *[0-9]+
+^Bushwhacked S *[0-9]+ Ep *[0-9]+
 ^Cafe Niugini S *[0-9]+ Ep *[0-9]+
 ^Cake Wars S *[0-9]+ Ep *[0-9]+
 ^Cake Wars Specials S *[0-9]+ Ep *[0-9]+
 ^Carnival Eats S *[0-9]+ Ep *[0-9]+
 ^Carnivore Chronicles S *[0-9]+ Ep *[0-9]+
 ^Celebrity Food Fight S *[0-9]+ Ep *[0-9]+
+^Celebrity Mastermind S *[0-9]+ Ep *[0-9]+
 ^Cheese Slices S *[0-9]+ Ep *[0-9]+
 ^Chilli Hunter S *[0-9]+ Ep *[0-9]+
 ^Chinese Food In Minutes S *[0-9]+ Ep *[0-9]+
 ^Chopped After Hours S *[0-9]+ Ep *[0-9]+
 ^Chopped S *[0-9]+ Ep *[0-9]+
+^Classic Mary Berry S *[0-9]+ Ep *[0-9]+
+^Come Dine With Me UK Couples S *[0-9]+ Ep *[0-9]+
+^Come Dine With Me UK S *[0-9]+ Ep *[0-9]+
+^Comfort Eating S *[0-9]+ Ep *[0-9]+
 ^Cooking For Love S *[0-9]+ Ep *[0-9]+
+^Cooking Hawaiian Style S *[0-9]+ Ep *[0-9]+
+^Cooking Up A Fortune S *[0-9]+ Ep *[0-9]+
+^Cook Like an Italian with Silvia Colloca S *[0-9]+ Ep *[0-9]+
+^Cook Like An Italian With Silvia Colloca S *[0-9]+ Ep *[0-9]+
+^Cook's Pantry With Matt Sinclair S *[0-9]+ Ep *[0-9]+
 ^Cooks Vs. Cons S *[0-9]+ Ep *[0-9]+
+^Coyote's Crazy Smart Science Show S *[0-9]+ Ep *[0-9]+
 ^Crazy Cookie Builds S *[0-9]+ Ep *[0-9]+
+^Cruising Iceland S *[0-9]+ Ep *[0-9]+
+^Cruising Mississippi S *[0-9]+ Ep *[0-9]+
+^Cruising The Mekong S *[0-9]+ Ep *[0-9]+
 ^Cruising With Jane McDonald S *[0-9]+ Ep *[0-9]+
 ^Custodians S *[0-9]+ Ep *[0-9]+
 ^Cycling: Criterium Du Dauphine 2019 S *[0-9]+ Ep *[0-9]+
+^Cycling: Criterium Du Dauphine 2020 S *[0-9]+ Ep *[0-9]+
 ^Cycling: Incycle S *[0-9]+ Ep *[0-9]+
 ^Cycling: La Vuelta 2019 Highlights S *[0-9]+ Ep *[0-9]+
 ^Cycling: La Vuelta 2019 Live Stage 1 S *[0-9]+ Ep *[0-9]+
+^Cycling: Tour De France Etape Classique S *[0-9]+ Ep *[0-9]+
 ^Cycling: Tour Of Hungary 2019 S *[0-9]+ Ep *[0-9]+
 ^Cycling: UCI Road World Championships S *[0-9]+ Ep *[0-9]+
 ^Cycling: Voxwomen S *[0-9]+ Ep *[0-9]+
 ^Cycling: Voxwomen Series 5 S *[0-9]+ Ep *[0-9]+
 ^Dara O Briain: School Of Hard Sums S *[0-9]+ Ep *[0-9]+
+^Dave Gorman: Terms And Conditions Apply S *[0-9]+ Ep *[0-9]+
 ^Dead Set On Life S *[0-9]+ Ep *[0-9]+
 ^Defining Moments S *[0-9]+ Ep *[0-9]+
 ^Delia's How To Cook S *[0-9]+ Ep *[0-9]+
@@ -101,68 +133,108 @@
 ^Dinner Date S *[0-9]+ Ep *[0-9]+
 ^Dinner Date South Africa S *[0-9]+ Ep *[0-9]+
 ^Donal's Asian Baking Adventure S *[0-9]+ Ep *[0-9]+
+^Donal's Cook, Eat, Burn S *[0-9]+ Ep *[0-9]+
+^Donal's Kitchen Hero Feast S *[0-9]+ Ep *[0-9]+
+^Donal's Kitchen Hero S *[0-9]+ Ep *[0-9]+
 ^Donna Hay: Basics To Brilliance Kids S *[0-9]+ Ep *[0-9]+
 ^Donna Hay: Basics To Brilliance S *[0-9]+ Ep *[0-9]+
 ^Donna Hay: Fast, Fresh, Simple S *[0-9]+ Ep *[0-9]+
 ^Drive Thru Australia S *[0-9]+ Ep *[0-9]+
 ^Eat Australia In South Australia S *[0-9]+ Ep *[0-9]+
+^Episode *[0-9]+ - Lorraine Landon, Megan Hustwaite
+^Faboriginal S *[0-9]+ Ep *[0-9]+
 ^Farmhouse Rules S *[0-9]+ Ep *[0-9]+
 ^Fashionista S *[0-9]+ Ep *[0-9]+
 ^F-Ck, That's Delicious: Classics S *[0-9]+ Ep *[0-9]+
+^F-ck That's Delicious S *[0-9]+ Ep *[0-9]+
 ^Food Lab By Ben Milbourne S *[0-9]+ Ep *[0-9]+
 ^Food Lovers Guide To Australia S *[0-9]+ Ep *[0-9]+
 ^Food Lovers' Guide To Australia S *[0-9]+ Ep *[0-9]+
 ^Food Paradise International S *[0-9]+ Ep *[0-9]+
 ^Food Paradise S *[0-9]+ Ep *[0-9]+
 ^Food Porn S *[0-9]+ Ep *[0-9]+
+^Food Safari Earth S *[0-9]+ Ep *[0-9]+
 ^Food Safari Fire S *[0-9]+ Ep *[0-9]+
 ^Food Safari S *[0-9]+ Ep *[0-9]+
 ^Food Safari Water S *[0-9]+ Ep *[0-9]+
+^Football Highlights S *[0-9]+ Ep *[0-9]+
 ^Football: WC Qualifier Taipei V Aus S *[0-9]+ Ep *[0-9]+
+^Footy in Paradise S *[0-9]+ Ep *[0-9]+
+^For The Love Of Bread S *[0-9]+ Ep *[0-9]+
 ^Front Up 1999 S *[0-9]+ Ep *[0-9]+
 ^Front Up 2000 S *[0-9]+ Ep *[0-9]+
 ^Front Up 2001 S *[0-9]+ Ep *[0-9]+
+^Front Up 2003 S *[0-9]+ Ep *[0-9]+
 ^Full Frontal With Samantha Bee S *[0-9]+ Ep *[0-9]+
+^Full replay - Australian Superbike Championship
 ^Giada At Home S *[0-9]+ Ep *[0-9]+
 ^Giada Entertains S *[0-9]+ Ep *[0-9]+
 ^Giada In Italy S *[0-9]+ Ep *[0-9]+
 ^Giada On The Beach S *[0-9]+ Ep *[0-9]+
 ^Giada's Holiday Handbook S *[0-9]+ Ep *[0-9]+
 ^Ginormous Food S *[0-9]+ Ep *[0-9]+
+^Gino's Italian Coastal Escape S *[0-9]+ Ep *[0-9]+
+^Gino's Italian Escape: Hidden Italy S *[0-9]+ Ep *[0-9]+
 ^Gino's Italian Escape S *[0-9]+ Ep *[0-9]+
 ^Go 8 Bit: The Video Game Show S *[0-9]+ Ep *[0-9]+
 ^Going Places With Ernie Dingo S *[0-9]+ Ep *[0-9]+
 ^Gok Cooks Chinese S *[0-9]+ Ep *[0-9]+
 ^Good Listening S *[0-9]+ Ep *[0-9]+
+^Gordon Ramsay Uncharted S *[0-9]+ Ep *[0-9]+
 ^Gourmet Farmer Afloat S *[0-9]+ Ep *[0-9]+
 ^Gourmet Farmer S *[0-9]+ Ep *[0-9]+
+^Gourmet Goes Tribal S *[0-9]+ Ep *[0-9]+
 ^Grand Tours Of Scotland's Lochs S *[0-9]+ Ep *[0-9]+
+^Great Alaskan Railroad Journeys S *[0-9]+ Ep *[0-9]+
 ^Great American Railroad Journeys S *[0-9]+ Ep *[0-9]+
 ^Great British Food Revival S *[0-9]+ Ep *[0-9]+
 ^Great British Railway Journeys S *[0-9]+ Ep *[0-9]+
+^Great Canadian Railway Journeys S *[0-9]+ Ep *[0-9]+
 ^Great Food Truck Race, The S *[0-9]+ Ep *[0-9]+
 ^Grounded S *[0-9]+ Ep *[0-9]+
 ^Guy's Big Bite S *[0-9]+ Ep *[0-9]+
 ^Guy's Grocery Games S *[0-9]+ Ep *[0-9]+
 ^Hairy Bikers' Bakeation S *[0-9]+ Ep *[0-9]+
+^Hairy Bikers' Best Of British S *[0-9]+ Ep *[0-9]+
 ^Hairy Bikers' Every Day Gourmet S *[0-9]+ Ep *[0-9]+
+^Hairy Bikers' Mississippi Adventure S *[0-9]+ Ep *[0-9]+
+^Hairy Bikers Northern Exposure S *[0-9]+ Ep *[0-9]+
 ^Halloween Baking Championship S *[0-9]+ Ep *[0-9]+
+^Harmony Cup S *[0-9]+ Ep *[0-9]+
 ^Haunted: The Other Side S *[0-9]+ Ep *[0-9]+
 ^Hayden Quinn's South Africa S *[0-9]+ Ep *[0-9]+
+^Heartland Footy S *[0-9]+ Ep *[0-9]+
 ^Help My Yelp S *[0-9]+ Ep *[0-9]+
+^Hemsley & Hemsley: Healthy And Delicious S *[0-9]+ Ep *[0-9]+
 ^Hidden Restaurants With Michel Roux Jnr S *[0-9]+ Ep *[0-9]+
+^Hugh's Three Hungry Boys S *[0-9]+ Ep *[0-9]+
+^Hungry Ghosts (Arabic) S *[0-9]+ Ep *[0-9]+
+^Hungry Ghosts (Chinese) S *[0-9]+ Ep *[0-9]+
+^Hungry Ghosts (Vietnamese) S *[0-9]+ Ep *[0-9]+
 ^Hunting Aotearoa S *[0-9]+ Ep *[0-9]+
+^If You Are The One Australian Special S *[0-9]+ Ep *[0-9]+
 ^If You Are The One S *[0-9]+ Ep *[0-9]+
 ^Incycle 2019 S *[0-9]+ Ep *[0-9]+
 ^Incycle S *[0-9]+ Ep *[0-9]+
+^InCycle S *[0-9]+ Ep *[0-9]+
+^Indian Food Made Easy S *[0-9]+ Ep *[0-9]+
+^In Search Of Umami S *[0-9]+ Ep *[0-9]+
 ^In The Frame S *[0-9]+ Ep *[0-9]+
 ^Inuk S *[0-9]+ Ep *[0-9]+
 ^Island Feast With Peter Kuruvita S *[0-9]+ Ep *[0-9]+
 ^Italian Food Safari S *[0-9]+ Ep *[0-9]+
 ^It's Suppertime S *[0-9]+ Ep *[0-9]+
 ^James Martin Mediterranean S *[0-9]+ Ep *[0-9]+
+^Jamie's American Road Trip S *[0-9]+ Ep *[0-9]+
+^Jamie's Great Italian Escape S *[0-9]+ Ep *[0-9]+
+^Jamie's Ultimate Veg S *[0-9]+ Ep *[0-9]+
+^Jimmy's Australian Food Adventure S *[0-9]+ Ep *[0-9]+
+^Jimmy Shu's Taste of The Territory S *[0-9]+ Ep *[0-9]+
+^John Torode's Asia S *[0-9]+ Ep *[0-9]+
+^John Torode's Australia S *[0-9]+ Ep *[0-9]+
 ^Jonathan Phang's Gourmet Express S *[0-9]+ Ep *[0-9]+
 ^Justine's Flavours Of Fuji S *[0-9]+ Ep *[0-9]+
+^Just Jen S *[0-9]+ Ep *[0-9]+
 ^Kaeloo S *[0-9]+ Ep *[0-9]+
 ^Karena And Kasey's Foreign Flavours .*S *[0-9]+ Ep *[0-9]+
 ^Karla Grant Presents Elements S *[0-9]+ Ep *[0-9]+
@@ -173,15 +245,22 @@
 ^Kriol Kitchen S *[0-9]+ Ep *[0-9]+
 ^Kylie Kwong: Heart And Soul S *[0-9]+ Ep *[0-9]+
 ^Kylie Kwong: My China S *[0-9]+ Ep *[0-9]+
+^La Course By Le Tour De France 2018 S *[0-9]+ Ep *[0-9]+
 ^Late Nite Eats S *[0-9]+ Ep *[0-9]+
 ^La Vuelta 2019 Highlights Stage [0-9]+
 ^Lee Chan's World Tour S *[0-9]+ Ep *[0-9]+
 ^Legally Brown S *[0-9]+ Ep *[0-9]+
+^Len And Ainsley's Big Food Adventure S *[0-9]+ Ep *[0-9]+
+^Let's Brunch S *[0-9]+ Ep *[0-9]+
 ^Let's Do Coffee S *[0-9]+ Ep *[0-9]+
+^Let's Go! S *[0-9]+ Ep *[0-9]+
 ^Letters And Numbers S *[0-9]+ Ep *[0-9]+
+^Lidia's Italy S *[0-9]+ Ep *[0-9]+
+^Lidia's Kitchen S *[0-9]+ Ep *[0-9]+
 ^LIVE 2018 Copa Libertadores Semi Final S *[0-9]+ Ep *[0-9]+
 ^LIVE 2019 FIFA U17 World Cup: ECU V AUS S *[0-9]+ Ep *[0-9]+
 ^LIVE Australian Superbike Championship S *[0-9]+ Ep *[0-9]+
+^LIVE Australian Superbikes Wakefield S *[0-9]+ Ep *[0-9]+
 ^LIVE NBL: Hawks v Adelaide 36ers S *[0-9]+ Ep *[0-9]+
 ^LIVE Shannons Nationals TCR Australia S *[0-9]+ Ep *[0-9]+
 ^LIVE: UCI Road World Championships 2019 S *[0-9]+ Ep *[0-9]+
@@ -198,6 +277,7 @@
 ^Lyndey Milan's Summer Baking Secrets S *[0-9]+ Ep *[0-9]+
 ^Lyndey Milan's Taste Of Australia S *[0-9]+ Ep *[0-9]+
 ^Lyndey Milan's Taste Of Ireland S *[0-9]+ Ep *[0-9]+
+^Macao Gourmet With Justine Schofield S *[0-9]+ Ep *[0-9]+
 ^Made In Italy With Silvia Colloca S *[0-9]+ Ep *[0-9]+
 ^Man Fire Food S *[0-9]+ Ep *[0-9]+
 ^Man's Greatest Food S *[0-9]+ Ep *[0-9]+
@@ -208,58 +288,90 @@
 ^Maori Tv's Native Affairs Summer 2017 S *[0-9]+ Ep *[0-9]+
 ^Maori Tv's Native Affairs - Summer S *[0-9]+ Ep *[0-9]+
 ^Martha And Snoop's Potluck Dinner Party
+^Martha Bakes S *[0-9]+ Ep *[0-9]+
 ^Martha's Cooking School S *[0-9]+ Ep *[0-9]+
+^Mary Berry's Absolute Favourites S *[0-9]+ Ep *[0-9]+
+^Mary Berry's Foolproof Cooking S *[0-9]+ Ep *[0-9]+
 ^Masterchef: The Professionals S *[0-9]+ Ep *[0-9]+
 ^Mastermind Australia S *[0-9]+ Ep *[0-9]+
+^Mastermind S *[0-9]+ Ep *[0-9]+
 ^Matthew Evans' For The Love Of Meat S *[0-9]+ Ep *[0-9]+
+^May's Kitchen S *[0-9]+ Ep *[0-9]+
 ^Mercurio's Menu S *[0-9]+ Ep *[0-9]+
 ^Michela's Classic Italian S *[0-9]+ Ep *[0-9]+
+^Michela's Tuscan Kitchen Ep *[0-9]+
 ^Midnight Diner S *[0-9]+ Ep *[0-9]+
 ^Miguel's Feasts S *[0-9]+ Ep *[0-9]+
 ^Miguel's Tropical Kitchen S *[0-9]+ Ep *[0-9]+
 ^Motorcycles Superbike World Championship S *[0-9]+ Ep *[0-9]+
+^Murray League AFL S *[0-9]+ Ep *[0-9]+
 ^Must Try Asia S *[0-9]+ Ep *[0-9]+
 ^My Family Feast S *[0-9]+ Ep *[0-9]+
 ^My Greek Table With Diane Kochilas S *[0-9]+ Ep *[0-9]+
 ^Mystery Diners S *[0-9]+ Ep *[0-9]+
 ^NAIDOC Award Winner Stories S *[0-9]+ Ep *[0-9]+
 ^Natural Wines With Clovis S *[0-9]+ Ep *[0-9]+
+^NBA replay -
+^NBL Overtime -
+^NBL round [0-9]+ replay:
 ^NBL Slam Highlights Show S *[0-9]+ Ep *[0-9]+
+^New Scandinavian Cooking S *[0-9]+ Ep *[0-9]+
+^Nigel And Adam's Farm Kitchen S *[0-9]+ Ep *[0-9]+
 ^Nigella Bites S *[0-9]+ Ep *[0-9]+
 ^Nigella Express S *[0-9]+ Ep *[0-9]+
 ^Nigella Feasts S *[0-9]+ Ep *[0-9]+
+^NITV News: Nula [0-9]+
 ^Nitv On The Road: Boomerang Festival S *[0-9]+ Ep *[0-9]+
+^NITV On the Road: Mbantua S *[0-9]+ Ep *[0-9]+
 ^Nitv On The Road: Yabun S *[0-9]+ Ep *[0-9]+
 ^Noongar Dandjoo S *[0-9]+ Ep *[0-9]+
 ^No Passport Required S *[0-9]+ Ep *[0-9]+
 ^Nordlandsbanen Train Journey S *[0-9]+ Ep *[0-9]+
+^Nouvelles Nationales d’APTN
+^Nrl 2020: Combined Affiliated States Ep 6 S *[0-9]+ Ep *[0-9]+
+^Nrl 2020: Combined Affiliated States S *[0-9]+ Ep *[0-9]+
+^NTFL S *[0-9]+ Ep *[0-9]+
 ^Off The Record S *[0-9]+ Ep *[0-9]+
 ^Oliver's Twist S *[0-9]+ Ep *[0-9]+
 ^On Country Kitchen S *[0-9]+ Ep *[0-9]+
 ^One With Nature S *[0-9]+ Ep *[0-9]+
 ^One World Kitchen S *[0-9]+ Ep *[0-9]+
+^Only Connect S *[0-9]+ Ep *[0-9]+
 ^Ottolenghi's Mediterranean Island Feasts? S *[0-9]+ Ep *[0-9]+
 ^Our Footprint S *[0-9]+ Ep *[0-9]+
 ^Our Stories S *[0-9]+ Ep *[0-9]+
 ^Over The Black Dot 2019 S *[0-9]+ Ep *[0-9]+
 ^Over The Black Dot S *[0-9]+ Ep *[0-9]+
+^Pacific Island Food Revolution S *[0-9]+ Ep *[0-9]+
+^Palisa Anderson's Water Heart Food S *[0-9]+ Ep *[0-9]+
+^Parveen's Indian Kitchen S *[0-9]+ Ep *[0-9]+
 ^Pati's Mexican Table S *[0-9]+ Ep *[0-9]+
 ^Paul And Nick's Big Canadian Food Trip S *[0-9]+ Ep *[0-9]+
 ^Paul And Nick's Big Food Trip S *[0-9]+ Ep *[0-9]+
 ^Paul Hollywood City Bakes S *[0-9]+ Ep *[0-9]+
+^Paul Hollywood's Bread S *[0-9]+ Ep *[0-9]+
 ^Paul Hollywood's Pies And Puds S *[0-9]+ Ep *[0-9]+
+^Pete And Pio's Kai Safari S *[0-9]+ Ep *[0-9]+
+^Plat du Tour S *[0-9]+ Ep *[0-9]+
+^Poh & Co. Best Bites S *[0-9]+ Ep *[0-9]+
+^Poh & Co. S *[0-9]+ Ep *[0-9]+
 ^Poh's Kitchen S *[0-9]+ Ep *[0-9]+
 ^Project Matauranga S *[0-9]+ Ep *[0-9]+
+^Quickies In My Kitchen S *[0-9]+ Ep *[0-9]+
 ^Rachael Ray's 30 Minute Meals S *[0-9]+ Ep *[0-9]+
 ^Rachel Allen: All Things Sweet S *[0-9]+ Ep *[0-9]+
 ^Rachel Allen: Coastal Cookery S *[0-9]+ Ep *[0-9]+
+^Rachel Allen Dinner Parties S *[0-9]+ Ep *[0-9]+
 ^Rachel Allen's Everyday Kitchen S *[0-9]+ Ep *[0-9]+
+^Rachel Khoo: My Swedish Kitchen S *[0-9]+ Ep *[0-9]+
+^Ready Steady Cook UK S *[0-9]+ Ep *[0-9]+
 ^Real Food Adventures S *[0-9]+ Ep *[0-9]+
 ^Real Pasifik S *[0-9]+ Ep *[0-9]+
 ^Remarkable Places To Eat S *[0-9]+ Ep *[0-9]+
 ^Replay: La Vuelta 2019 Stage [0-9]+
 ^Replay: Paris-Nice
 ^Restaurant: Impossible S *[0-9]+ Ep *[0-9]+
+^Rhodes Across Italy S *[0-9]+ Ep *[0-9]+
 ^Rick Stein.*
 ^Rick Stein's India S *[0-9]+ Ep *[0-9]+
 ^Rick Stein's Spain S *[0-9]+ Ep *[0-9]+
@@ -269,12 +381,18 @@
 ^Royal India With Samira S *[0-9]+ Ep *[0-9]+
 ^Rugby 7s 2019: Ella 7s S *[0-9]+ Ep *[0-9]+
 ^Rugby League 2019: NRL WA S *[0-9]+ Ep *[0-9]+
+^Rugby League: Nrl NT 2021 Ep 1 S *[0-9]+ Ep *[0-9]+
 ^Rugby Union 2018: Ella 7's 1 S *[0-9]+ Ep *[0-9]+
 ^Rugby Union 2019: South Australia Premier Grade S *[0-9]+ Ep *[0-9]+
+^Rugby Union 2020: NT Rugby S *[0-9]+ Ep *[0-9]+
+^Rugby WA Premier Grade S *[0-9]+ Ep *[0-9]+
 ^Sachie's Kitchen S *[0-9]+ Ep *[0-9]+
+^Sailing: SailGP Sydney S *[0-9]+ Ep *[0-9]+
+^Sarah Graham Cooks Cape Town S *[0-9]+ Ep *[0-9]+
 ^Saturday Kitchen S *[0-9]+ Ep *[0-9]+
 ^Say It To My Face S *[0-9]+ Ep *[0-9]+
 ^SBS World News Late S *[0-9]+ Ep *[0-9]+
+^(Scottish|Irish|Taiwanese|New Caledonian) +(News|Weather) +[0-9]+ *(January|February|March|April|May|June|July|August|September|October|November|December)
 ^Secret Meat Business S *[0-9]+ Ep *[0-9]+
 ^Shane Delia's Moorish Spice Journey S *[0-9]+ Ep *[0-9]+
 ^Shane Delia's Recipe for Life S *[0-9]+ Ep *[0-9]+
@@ -286,27 +404,44 @@
 ^Sivummut S *[0-9]+ Ep *[0-9]+
 ^Skindigenous S *[0-9]+ Ep *[0-9]+
 ^Small Business Secrets S *[0-9]+ Ep *[0-9]+
+^Small Business Secrets Series 6 S *[0-9]+ Ep *[0-9]+
+^Speedweek 2020 S *[0-9]+ Ep *[0-9]+
 ^Speedweek S *[0-9]+ Ep *[0-9]+
 ^Spencer's Big 30 S *[0-9]+ Ep *[0-9]+
 ^Spring Baking Championship S *[0-9]+ Ep *[0-9]+
 ^Star Plates S *[0-9]+ Ep *[0-9]+
+^Strait To The Plate S *[0-9]+ Ep *[0-9]+
 ^Superbike World Championship 2019 Qatar S *[0-9]+ Ep *[0-9]+
 ^Superbike World Championships 2018 S *[0-9]+ Ep *[0-9]+
 ^Superbike World Championships 2019 Italy S *[0-9]+ Ep *[0-9]+
 ^Superbike World Championships 2019: UK S *[0-9]+ Ep *[0-9]+
+^Surfing The Menu S *[0-9]+ Ep *[0-9]+
 ^Surviving S *[0-9]+ Ep *[0-9]+
 ^Tales Of Tatonka S *[0-9]+ Ep *[0-9]+
+^Taskmaster: Champion Of Champions S *[0-9]+ Ep *[0-9]+
+^Taskmaster Norway S *[0-9]+ Ep *[0-9]+
+^Taskmaster S *[0-9]+ Ep *[0-9]+
 ^Taste Of Marley S *[0-9]+ Ep *[0-9]+
+^Taste The Nation With Padma Lakshmi S *[0-9]+ Ep *[0-9]+
+^Te Ao 2020 S *[0-9]+ Ep *[0-9]+
 ^Te Ao - Maori News S *[0-9]+ Ep *[0-9]+
+^Te Ao With Moana
+^Te Ao With Moana S *[0-9]+ Ep *[0-9]+
 ^Te Kaea S *[0-9]+ Ep *[0-9]+
 ^Thai Street Food With David Thompson S *[0-9]+ Ep *[0-9]+
+^The Best In Australia S *[0-9]+ Ep *[0-9]+
 ^The Best Of Taste Le Tour Series S *[0-9]+ Ep *[0-9]+
 ^The Best Of The Point S *[0-9]+ Ep *[0-9]+
+^The Big Family Cooking Showdown S *[0-9]+ Ep *[0-9]+
 ^The Bowls Show S *[0-9]+ Ep *[0-9]+
 ^The Chefs' Line S *[0-9]+ Ep *[0-9]+
 ^The Cook And The Chef S *[0-9]+ Ep *[0-9]+
+^The Cook Up with Adam Liaw S *[0-9]+ Ep *[0-9]+
+^The Delicious Miss Dahl S *[0-9]+ Ep *[0-9]+
 ^The Dreaming S *[0-9]+ Ep *[0-9]+
 ^The Feed: Reality TV Survivors S *[0-9]+ Ep *[0-9]+
+^The Feed S *[0-9]+ Ep *[0-9]+
+^The Feed Summer Specials S *[0-9]+ Ep *[0-9]+
 ^The F Word USA S *[0-9]+ Ep *[0-9]+
 ^The Gadget Show S *[0-9]+ Ep *[0-9]+
 ^The Great Australian Cookbook S *[0-9]+ Ep *[0-9]+
@@ -315,32 +450,44 @@
 ^The Hairy Bikers' Food Tour Of Britain S *[0-9]+ Ep *[0-9]+
 ^The Hairy Bikers: Mums Know Best S *[0-9]+ Ep *[0-9]+
 ^The Hairy Bikers USA S *[0-9]+ Ep *[0-9]+
+^The Handmaid's Tale (Arabic) S *[0-9]+ Ep *[0-9]+
+^The Handmaid's Tale (Chinese) S *[0-9]+ Ep *[0-9]+
 ^The Hunting (Arabic) S *[0-9]+ Ep *[0-9]+
 ^The Hunting (Chinese) S *[0-9]+ Ep *[0-9]+
+^The Incredible Spice Men S *[0-9]+ Ep *[0-9]+
 ^The Kitchen S *[0-9]+ Ep *[0-9]+
 ^The Latin Kitchen S *[0-9]+ Ep *[0-9]+
 ^The Marngrook Footy Show 2019 S *[0-9]+ Ep *[0-9]+
 ^The Marngrook Footy Show S *[0-9]+ Ep *[0-9]+
 ^The Naked Chef S *[0-9]+ Ep *[0-9]+
+^The Perfect Serve S *[0-9]+ Ep *[0-9]+
 ^The Point S *[0-9]+ Ep *[0-9]+
+^The Sharp Point S *[0-9]+ Ep *[0-9]+
+^The Supervet: Noel Fitzpatrick S *[0-9]+ Ep *[0-9]+
+^The Sweet Life With Elise Strachan S *[0-9]+ Ep *[0-9]+
 ^The Therapist S *[0-9]+ Ep *[0-9]+
 ^The Travelling Chef S *[0-9]+ Ep *[0-9]+
 ^The Urban Vegetarian S *[0-9]+ Ep *[0-9]+
+^The Whole Table S *[0-9]+ Ep *[0-9]+
 ^The Wine Show S *[0-9]+ Ep *[0-9]+
 ^Tipi Tales S *[0-9]+ Ep *[0-9]+
 ^Tom Kerridge's Proper Pub Food S *[0-9]+ Ep *[0-9]+
+^Top Of The Shop With Tom Kerridge S *[0-9]+ Ep *[0-9]+
+^To The Point S *[0-9]+ Ep *[0-9]+
 ^Tour De France 2019 Daily Highlights S *[0-9]+ Ep *[0-9]+
 ^Tour De France 2019 Daily Update S *[0-9]+ Ep *[0-9]+
 ^Tour De France 2019 Live Stages S *[0-9]+ Ep *[0-9]+
 ^Tour De France 2019 Stage Replays S *[0-9]+ Ep *[0-9]+
 ^Trisha's Southern Kitchen S *[0-9]+ Ep *[0-9]+
 ^Trivia Nights S *[0-9]+ Ep *[0-9]+
+^Tropical Gourmet: New Caledonia S *[0-9]+ Ep *[0-9]+
 ^Tyler's Ultimate S *[0-9]+ Ep *[0-9]+
 ^Ultimate Airport Dubai S *[0-9]+ Ep *[0-9]+
 ^Unique Sweets S *[0-9]+ Ep *[0-9]+
 ^Untitled Action Bronson Show S *[0-9]+ Ep *[0-9]+
 ^Unwrapped 2.0 S *[0-9]+ Ep *[0-9]+
 ^Valerie's Home Cooking S *[0-9]+ Ep *[0-9]+
+^Vanishing Foods S *[0-9]+ Ep *[0-9]+
 ^Vegas Cakes S *[0-9]+ Ep *[0-9]+
 ^Vice News Tonight Ep *[0-9]+
 ^Vice News Tonight S *[0-9]+ Ep *[0-9]+
@@ -348,13 +495,20 @@
 ^Waabiny Time S *[0-9]+ Ep *[0-9]+
 ^Walking Britain's Lost Railways S *[0-9]+ Ep *[0-9]+
 ^Watts On The Grill S *[0-9]+ Ep *[0-9]+
+^Weekend Breaks With Gregg Wallace S *[0-9]+ Ep *[0-9]+
+^Welcome to Wapos Bay S *[0-9]+ Ep *[0-9]+
 ^Welcome To Wapos Bay S *[0-9]+ Ep *[0-9]+
 ^Where Are We Going, Dad? S *[0-9]+ Ep *[0-9]+
 ^Which Way The Fish S *[0-9]+ Ep *[0-9]+
 ^Who Do You Think You Are? Lee Mack S *[0-9]+ Ep *[0-9]+
 ^Who Do You Think You Are Michelle Keegan S *[0-9]+ Ep *[0-9]+
 ^Who Do You Think You Are? S *[0-9]+ Ep *[0-9]+
+^Who Do You Think You Are\? S *[0-9]+ Ep *[0-9]+
+^Wilderness Of Tohoku S *[0-9]+ Ep *[0-9]+
+^Wok Vs Pot With Marion And Silvia S *[0-9]+ Ep *[0-9]+
 ^World Game 2019, The S *[0-9]+ Ep *[0-9]+
 ^Yamba's Playtime S *[0-9]+ Ep *[0-9]+
 ^Yarramundi Kids S *[0-9]+ Ep *[0-9]+
+^Yokayi Footy S *[0-9]+ Ep *[0-9]+
 ^Yotam Ottolenghi's Mediterranean Feasts S *[0-9]+ Ep *[0-9]+
+^Arabic News First Edition [0-9]+
