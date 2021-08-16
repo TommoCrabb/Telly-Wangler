@@ -24,11 +24,14 @@
 ^Alex Polizzi's Secret Italy S *[0-9]+ Ep *[0-9]+
 ^Alex Polizzi The Fixer S *[0-9]+ Ep *[0-9]+
 ^Amazing Wedding Cakes S *[0-9]+ Ep *[0-9]+
+^Amy Schumer Learns To Cook S *[0-9]+ Ep *[0-9]+
 ^Annabel Langbein: Free Range Cook S *[0-9]+ Ep *[0-9]+
 ^Anthony Bourdain: No Reservations S *[0-9]+ Ep *[0-9]+
 ^Anthony Bourdain: Parts Unknown S *[0-9]+ Ep *[0-9]+
 ^Anthony Bourdain: The Layover S *[0-9]+ Ep *[0-9]+
+^Aptn National News
 ^APTN National News S *[0-9]+ Ep *[0-9]+
+^Arabic News First Edition [0-9]+
 ^Around The Campfire S *[0-9]+ Ep *[0-9]+
 ^Artefact S *[0-9]+ Ep *[0-9]+
 ^A Shared Table S *[0-9]+ Ep *[0-9]+
@@ -70,6 +73,7 @@
 ^Bon Appetit! Gerard Depardieu's Europe S *[0-9]+ Ep *[0-9]+
 ^Bondi Harvest S *[0-9]+ Ep *[0-9]+
 ^Born To Cook: Jack Stein Down Under S *[0-9]+ Ep *[0-9]+
+^Bowls 2020: SA Super League Ep *[0-9]+
 ^Bowls 2020: SA Super League S *[0-9]+ Ep *[0-9]+
 ^Bowls SA Super League S *[0-9]+ Ep *[0-9]+
 ^Boys Weekend S *[0-9]+ Ep *[0-9]+
@@ -97,6 +101,7 @@
 ^Cook Like An Italian With Silvia Colloca S *[0-9]+ Ep *[0-9]+
 ^Cook's Pantry With Matt Sinclair S *[0-9]+ Ep *[0-9]+
 ^Cooks Vs. Cons S *[0-9]+ Ep *[0-9]+
+^Counter Space S *[0-9]+ Ep *[0-9]+
 ^Coyote's Crazy Smart Science Show S *[0-9]+ Ep *[0-9]+
 ^Crazy Cookie Builds S *[0-9]+ Ep *[0-9]+
 ^Cruising Iceland S *[0-9]+ Ep *[0-9]+
@@ -109,13 +114,16 @@
 ^Cycling: Incycle S *[0-9]+ Ep *[0-9]+
 ^Cycling: La Vuelta 2019 Highlights S *[0-9]+ Ep *[0-9]+
 ^Cycling: La Vuelta 2019 Live Stage 1 S *[0-9]+ Ep *[0-9]+
+^Cycling: National Road Series
 ^Cycling: Tour De France Etape Classique S *[0-9]+ Ep *[0-9]+
 ^Cycling: Tour Of Hungary 2019 S *[0-9]+ Ep *[0-9]+
 ^Cycling: UCI Road World Championships S *[0-9]+ Ep *[0-9]+
 ^Cycling: Voxwomen S *[0-9]+ Ep *[0-9]+
 ^Cycling: Voxwomen Series 5 S *[0-9]+ Ep *[0-9]+
+^Daily Stage *[0-9]+ Update: Tour de France *[0-9]+
 ^Dara O Briain: School Of Hard Sums S *[0-9]+ Ep *[0-9]+
 ^Dave Gorman: Terms And Conditions Apply S *[0-9]+ Ep *[0-9]+
+^David Rocco's Dolce South East Asia S *[0-9]+ Ep *[0-9]+
 ^Dead Set On Life S *[0-9]+ Ep *[0-9]+
 ^Defining Moments S *[0-9]+ Ep *[0-9]+
 ^Delia's How To Cook S *[0-9]+ Ep *[0-9]+
@@ -141,12 +149,14 @@
 ^Donna Hay: Fast, Fresh, Simple S *[0-9]+ Ep *[0-9]+
 ^Drive Thru Australia S *[0-9]+ Ep *[0-9]+
 ^Eat Australia In South Australia S *[0-9]+ Ep *[0-9]+
+^Episode *[0-9]+ *: Bonjour Le Tour - TDF preview show - Tour de France *[0-9]+
 ^Episode *[0-9]+ - Lorraine Landon, Megan Hustwaite
 ^Faboriginal S *[0-9]+ Ep *[0-9]+
 ^Farmhouse Rules S *[0-9]+ Ep *[0-9]+
 ^Fashionista S *[0-9]+ Ep *[0-9]+
 ^F-Ck, That's Delicious: Classics S *[0-9]+ Ep *[0-9]+
 ^F-ck That's Delicious S *[0-9]+ Ep *[0-9]+
+^Field Trip With Curtis Stone S *[0-9]+ Ep *[0-9]+
 ^Food Lab By Ben Milbourne S *[0-9]+ Ep *[0-9]+
 ^Food Lovers Guide To Australia S *[0-9]+ Ep *[0-9]+
 ^Food Lovers' Guide To Australia S *[0-9]+ Ep *[0-9]+
@@ -161,12 +171,15 @@
 ^Football: WC Qualifier Taipei V Aus S *[0-9]+ Ep *[0-9]+
 ^Footy in Paradise S *[0-9]+ Ep *[0-9]+
 ^For The Love Of Bread S *[0-9]+ Ep *[0-9]+
+^French Food Safari S *[0-9]+ Ep *[0-9]+
 ^Front Up 1999 S *[0-9]+ Ep *[0-9]+
 ^Front Up 2000 S *[0-9]+ Ep *[0-9]+
 ^Front Up 2001 S *[0-9]+ Ep *[0-9]+
 ^Front Up 2003 S *[0-9]+ Ep *[0-9]+
 ^Full Frontal With Samantha Bee S *[0-9]+ Ep *[0-9]+
+^Full replay: 2021 W Series
 ^Full replay - Australian Superbike Championship
+^Full Stage *[0-9]+ replay: Tour de France *[0-9]+
 ^Giada At Home S *[0-9]+ Ep *[0-9]+
 ^Giada Entertains S *[0-9]+ Ep *[0-9]+
 ^Giada In Italy S *[0-9]+ Ep *[0-9]+
@@ -199,6 +212,7 @@
 ^Hairy Bikers' Every Day Gourmet S *[0-9]+ Ep *[0-9]+
 ^Hairy Bikers' Mississippi Adventure S *[0-9]+ Ep *[0-9]+
 ^Hairy Bikers Northern Exposure S *[0-9]+ Ep *[0-9]+
+^Hairy Biker's Route 66 S *[0-9]+ Ep *[0-9]+
 ^Halloween Baking Championship S *[0-9]+ Ep *[0-9]+
 ^Harmony Cup S *[0-9]+ Ep *[0-9]+
 ^Haunted: The Other Side S *[0-9]+ Ep *[0-9]+
@@ -217,6 +231,8 @@
 ^Incycle 2019 S *[0-9]+ Ep *[0-9]+
 ^Incycle S *[0-9]+ Ep *[0-9]+
 ^InCycle S *[0-9]+ Ep *[0-9]+
+^Indian Country Today Ep *[0-9]+
+^Indian Country Today Ep 3 S *[0-9]+ Ep *[0-9]+
 ^Indian Food Made Easy S *[0-9]+ Ep *[0-9]+
 ^In Search Of Umami S *[0-9]+ Ep *[0-9]+
 ^In The Frame S *[0-9]+ Ep *[0-9]+
@@ -225,8 +241,11 @@
 ^Italian Food Safari S *[0-9]+ Ep *[0-9]+
 ^It's Suppertime S *[0-9]+ Ep *[0-9]+
 ^James Martin Mediterranean S *[0-9]+ Ep *[0-9]+
+^Jamie & Jimmy's Food Fight Club S *[0-9]+ Ep *[0-9]+
 ^Jamie's American Road Trip S *[0-9]+ Ep *[0-9]+
+^Jamie's Food Escapes S *[0-9]+ Ep *[0-9]+
 ^Jamie's Great Italian Escape S *[0-9]+ Ep *[0-9]+
+^Jamie's Kitchen S *[0-9]+ Ep *[0-9]+
 ^Jamie's Ultimate Veg S *[0-9]+ Ep *[0-9]+
 ^Jimmy's Australian Food Adventure S *[0-9]+ Ep *[0-9]+
 ^Jimmy Shu's Taste of The Territory S *[0-9]+ Ep *[0-9]+
@@ -263,6 +282,7 @@
 ^LIVE Australian Superbikes Wakefield S *[0-9]+ Ep *[0-9]+
 ^LIVE NBL: Hawks v Adelaide 36ers S *[0-9]+ Ep *[0-9]+
 ^LIVE Shannons Nationals TCR Australia S *[0-9]+ Ep *[0-9]+
+^LIVE STREAM: *[0-9]+ Tour de France - Stage *[0-9]+
 ^LIVE: UCI Road World Championships 2019 S *[0-9]+ Ep *[0-9]+
 ^Living Black S *[0-9]+ Ep *[0-9]+
 ^Loving Gluten Free S *[0-9]+ Ep *[0-9]+
@@ -292,6 +312,7 @@
 ^Martha's Cooking School S *[0-9]+ Ep *[0-9]+
 ^Mary Berry's Absolute Favourites S *[0-9]+ Ep *[0-9]+
 ^Mary Berry's Foolproof Cooking S *[0-9]+ Ep *[0-9]+
+^Mary's Kitchen Crush S *[0-9]+ Ep *[0-9]+
 ^Masterchef: The Professionals S *[0-9]+ Ep *[0-9]+
 ^Mastermind Australia S *[0-9]+ Ep *[0-9]+
 ^Mastermind S *[0-9]+ Ep *[0-9]+
@@ -300,6 +321,7 @@
 ^Mercurio's Menu S *[0-9]+ Ep *[0-9]+
 ^Michela's Classic Italian S *[0-9]+ Ep *[0-9]+
 ^Michela's Tuscan Kitchen Ep *[0-9]+
+^Middle East Feast With Shane Delia S *[0-9]+ Ep *[0-9]+
 ^Midnight Diner S *[0-9]+ Ep *[0-9]+
 ^Miguel's Feasts S *[0-9]+ Ep *[0-9]+
 ^Miguel's Tropical Kitchen S *[0-9]+ Ep *[0-9]+
@@ -323,6 +345,7 @@
 ^NITV News: Nula [0-9]+
 ^Nitv On The Road: Boomerang Festival S *[0-9]+ Ep *[0-9]+
 ^NITV On the Road: Mbantua S *[0-9]+ Ep *[0-9]+
+^NITV On The Road: Mbantua S *[0-9]+ Ep *[0-9]+
 ^Nitv On The Road: Yabun S *[0-9]+ Ep *[0-9]+
 ^Noongar Dandjoo S *[0-9]+ Ep *[0-9]+
 ^No Passport Required S *[0-9]+ Ep *[0-9]+
@@ -338,6 +361,7 @@
 ^One World Kitchen S *[0-9]+ Ep *[0-9]+
 ^Only Connect S *[0-9]+ Ep *[0-9]+
 ^Ottolenghi's Mediterranean Island Feasts? S *[0-9]+ Ep *[0-9]+
+^Our Food, Our Family S *[0-9]+ Ep *[0-9]+
 ^Our Footprint S *[0-9]+ Ep *[0-9]+
 ^Our Stories S *[0-9]+ Ep *[0-9]+
 ^Over The Black Dot 2019 S *[0-9]+ Ep *[0-9]+
@@ -353,6 +377,7 @@
 ^Paul Hollywood's Pies And Puds S *[0-9]+ Ep *[0-9]+
 ^Pete And Pio's Kai Safari S *[0-9]+ Ep *[0-9]+
 ^Plat du Tour S *[0-9]+ Ep *[0-9]+
+^Plat Du Tour S *[0-9]+ Ep *[0-9]+
 ^Poh & Co. Best Bites S *[0-9]+ Ep *[0-9]+
 ^Poh & Co. S *[0-9]+ Ep *[0-9]+
 ^Poh's Kitchen S *[0-9]+ Ep *[0-9]+
@@ -409,8 +434,10 @@
 ^Speedweek S *[0-9]+ Ep *[0-9]+
 ^Spencer's Big 30 S *[0-9]+ Ep *[0-9]+
 ^Spring Baking Championship S *[0-9]+ Ep *[0-9]+
+^Stage *[0-9]+ extended highlights: Giro d\'Italia Donne *[0-9]+
 ^Star Plates S *[0-9]+ Ep *[0-9]+
 ^Strait To The Plate S *[0-9]+ Ep *[0-9]+
+^Superbike World Championship *[0-9]+ S *[0-9]+ Ep *[0-9]+
 ^Superbike World Championship 2019 Qatar S *[0-9]+ Ep *[0-9]+
 ^Superbike World Championships 2018 S *[0-9]+ Ep *[0-9]+
 ^Superbike World Championships 2019 Italy S *[0-9]+ Ep *[0-9]+
@@ -500,10 +527,11 @@
 ^Welcome To Wapos Bay S *[0-9]+ Ep *[0-9]+
 ^Where Are We Going, Dad? S *[0-9]+ Ep *[0-9]+
 ^Which Way The Fish S *[0-9]+ Ep *[0-9]+
-^Who Do You Think You Are? Lee Mack S *[0-9]+ Ep *[0-9]+
-^Who Do You Think You Are Michelle Keegan S *[0-9]+ Ep *[0-9]+
-^Who Do You Think You Are? S *[0-9]+ Ep *[0-9]+
+^Who Do You Think You Are\? \(Arabic\) S *[0-9]+ Ep *[0-9]+
+^Who Do You Think You Are\? \(Chinese\) S *[0-9]+ Ep *[0-9]+
+^Who Do You Think You Are\? \(Korean?\) S *[0-9]+ Ep *[0-9]+
 ^Who Do You Think You Are\? S *[0-9]+ Ep *[0-9]+
+^Who Do You Think You Are\? \(Vietnamese\) S *[0-9]+ Ep *[0-9]+
 ^Wilderness Of Tohoku S *[0-9]+ Ep *[0-9]+
 ^Wok Vs Pot With Marion And Silvia S *[0-9]+ Ep *[0-9]+
 ^World Game 2019, The S *[0-9]+ Ep *[0-9]+
@@ -511,4 +539,3 @@
 ^Yarramundi Kids S *[0-9]+ Ep *[0-9]+
 ^Yokayi Footy S *[0-9]+ Ep *[0-9]+
 ^Yotam Ottolenghi's Mediterranean Feasts S *[0-9]+ Ep *[0-9]+
-^Arabic News First Edition [0-9]+
